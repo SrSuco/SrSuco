@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Nasário</h1>
-<h3 align="center">A software engineering student at Univille.</h3>
+<h3 align="center">Software engineering student at Univille.</h3>
 
 - 🔭 I’m currently looking forward on learning new skills for programming. [...](...)
 
